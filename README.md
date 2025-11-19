@@ -46,6 +46,12 @@ plot(w/pi,abs(h),'blue');
 
 ## OUTPUT:
 
+Design of low pass FIR digital filter using Hanning Window.
+𝐻(𝑒𝑗𝜔)=1 for |𝜔|≤2𝜋5
+𝐻(𝑒𝑗𝜔)=0 for 2𝜋5<|𝜔|<𝜋 using Hanning Window, M=17
 <img width="742" height="773" alt="Screenshot 2025-10-16 110415" src="https://github.com/user-attachments/assets/787e91a8-cc66-4b8d-8cfb-792873614bef" />
 
 ## RESULT:
+
+Thus the design of low pass FIR digital filter using Hanning waveforms were plotted and output was verified.
+
