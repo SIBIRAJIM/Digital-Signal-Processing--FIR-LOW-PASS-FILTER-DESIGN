@@ -52,6 +52,6 @@ Design of low pass FIR digital filter using Hanning Window.<br>
 <img width="742" height="773" alt="Screenshot 2025-10-16 110415" src="https://github.com/user-attachments/assets/787e91a8-cc66-4b8d-8cfb-792873614bef" />
 
 ## RESULT:
+<img width="720" height="223" alt="image" src="https://github.com/user-attachments/assets/96c257ce-40a9-4dcd-aa02-52600946c5ee" />
 
-Thus the design of low pass FIR digital filter using Hanning waveforms were plotted and output was verified.
 
